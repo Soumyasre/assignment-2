@@ -1,0 +1,59 @@
+.img1{
+    align-content: center;
+    padding-bottom: 100px;
+}
+.links a {
+    color: white;
+    font-size: 20px;
+    font-style: italic;
+    padding-inline: 30px;
+}
+.links{
+    background-color: black;
+    padding:30px 40px 50px 100px;
+}
+#demo1{
+    text-align: center;
+    font-size: 30px;
+    padding:250px;
+}
+h1{
+    font-size: 20px;
+}  
+
+table tr td {
+padding-top: 6px;
+padding-bottom: 6px;
+}
+fieldset{
+    width:500px; 
+    text-align: center;
+}
+.box{
+    width:250px;
+    padding:50px;
+    position:absolute;
+    top:50%;
+    left:50%;
+    color:black;
+    transform: translate(-50%,-50%);
+    border-radius: 40cm;
+}
+#headmaster{
+    text-align:center;
+    color:cadetblue
+}
+.box input{
+    border: 0;
+    background: none;
+    display: block;
+    align-items: center;
+    border: 20px black;
+    padding: 14px 10px;
+    color:black;
+    width :200px;
+    border-radius: 20px;
+}
+.box input[type="submit"]:hover{
+    background: rgb(199, 151, 248);
+}
