@@ -41,8 +41,9 @@ fieldset{
 }
 #headmaster{
     text-align:center;
-    color:cadetblue
+    color:cadetblue;
     font-size:50px;
+
 }
 .box input{
     border: 0;
@@ -54,6 +55,7 @@ fieldset{
     color:black;
     width :200px;
     border-radius: 20px;
+    font-size:15px;
     font-size:20px;
 }
 .box input[type="submit"]:hover{
